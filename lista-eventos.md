@@ -1,4 +1,5 @@
-# Lista de eventos sobre desenvolvimento web
+# Eventos
+Lista de eventos sobre desenvolvimento web front-end e back-end
 
 * [InterConPHP](#interconphp-2014)
 * [frontinbh](#frontinbh-2014)
@@ -21,17 +22,17 @@
 * **Local:** Hotel InterContinental
 * **Valor:** R$ 99,00
 * **Palestrantes:** Anderson Casimiro, Augusto Pascutti, Guilherme Blanco, João Neto Batista, Luís Cobucci entre outros
-* **Site:** interconphp.imasters.com.br
+* **Site:** [interconphp.imasters.com.br](http://interconphp.imasters.com.br)
 
 ### <a name="frontinbh-2014"></a>frontinbh
-* **Tema:** front-end
+* **Tema:** Front-end
 * **Dia:** 26/07/2014 (sábado)
 * **Cidade:** Belo Horizonte - MG
 * **Endereço:** Rua Diamantina, 488 - Lagoinha
 * **Local:** Teatro Ney Soares
 * **Valor:** a partir de R$ 75,00
 * **Palestrantes:** Mathias Bynens, Rachel Myers entre outros
-* **Site:** frontinbh.com.br
+* **Site:** [frontinbh.com.br](http://frontinbh.com.br)
 
 ### <a name="tdc-sp-2014"></a>TDC
 * **Tema:** Variados
@@ -41,7 +42,7 @@
 * **Local:** Universidade Anhembi Morumbi
 * **Valor:** a partir de R$ 90,00
 * **Palestrantes:** vários
-* **Site:** www.thedevelopersconference.com.br/tdc/2014
+* **Site:** [www.thedevelopersconference.com.br/tdc/2014](http://www.thedevelopersconference.com.br/tdc/2014)
 
 ### <a name="braziljs-2014"></a>BrazilJS
 * **Tema:** JavaScript
@@ -51,7 +52,7 @@
 * **Local:** Teatro do Bourbon Country
 * **Valor:** a partir de R$ 200,00
 * **Palestrantes:** Yehuda Katz, Rob Dodson, Miller Medeiros, Guillermo Rauch, Eduardo Lundgren, James Halliday, Leonardo Balter entre outros
-* **Site:** braziljs.com.br
+* **Site:** [braziljs.com.br](http://braziljs.com.br)
 
 ### <a name="sampajs-2014"></a>SampaJS
 * **Tema:** JavaScript
@@ -61,7 +62,7 @@
 * **Local:** (não informado)
 * **Valor:** (não informado)
 * **Palestrantes:** (não informado)
-* **Site:** www.sampajs.com.br
+* **Site:** [www.sampajs.com.br](http://www.sampajs.com.br)
 
 ### <a name="w3c-conference-2014"></a>W3C Conference
 * **Tema:** Front-end
@@ -71,7 +72,7 @@
 * **Local:** Blue Tree Towers Morumbi
 * **Valor:** (não informado)
 * **Palestrantes:** (não informado)
-* **Site:** conferenciaweb.w3c.br
+* **Site:** [conferenciaweb.w3c.br](http://conferenciaweb.w3c.br)
 
 ### <a name="tableless-conference-2014"></a>Tableless Conference
 * **Tema:** Front-end
@@ -81,7 +82,7 @@
 * **Local:** Centro Britânico Brasileiro
 * **Valor:** R$ 150,00
 * **Palestrantes:** Sérgio Lopes, Nando Vieira, Jean Carlo Emer, Clécio Bachini, Victor Cavalcante, Diego Eis
-* **Site:** tableless.com.br/tablelessconf
+* **Site:** [tableless.com.br/tablelessconf](http://tableless.com.br/tablelessconf)
 
 ### <a name="frontinsampa-2014"></a>FrontInSampa
 * **Tema:** Front-end
@@ -91,7 +92,7 @@
 * **Local:** Inferno Club
 * **Valor:** R$ 99,00
 * **Palestrantes:** (não informado)
-* **Site:** frontinsampa.com.br
+* **Site:** [frontinsampa.com.br](http://frontinsampa.com.br)
 
 ### <a name="php-conference-ar-2014"></a>PHP Conference Argentina
 * **Tema:** PHP
@@ -101,7 +102,7 @@
 * **Local:** Ciudad Cultural Konex
 * **Valor:** a partir de US$ 99,00
 * **Palestrantes:** Fabien Potencier, Phil Sturgeon, Anthony Ferrara, Dustin Whittle, Er Galvão Abbott, Mitchell Hashimoto, Mariano Iglesias
-* **Site:** phpconference.com.ar
+* **Site:** [phpconference.com.ar](http://phpconference.com.ar)
 
 ### <a name="php-conference-br-2014"></a>PHP Conference Brasil
 * **Tema:** PHP
@@ -111,4 +112,4 @@
 * **Local:** UNIFIEO
 * **Valor:** a partir de R$ 94,00
 * **Palestrantes:** Rasmus Lerdorf e outros à confirmar
-* **Site:** www.phpconference.com.br
+* **Site:** [www.phpconference.com.br](http://www.phpconference.com.br)
