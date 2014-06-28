@@ -56,7 +56,7 @@ Lista de eventos sobre desenvolvimento web front-end e back-end
 
 ### <a name="sampajs-2014"></a>SampaJS
 * **Tema:** JavaScript
-* **Dias:** 06/09/2014 (sábado)
+* **Dia:** 06/09/2014 (sábado)
 * **Cidade:** São Paulo - SP
 * **Endereço:** (não informado)
 * **Local:** (não informado)
@@ -76,7 +76,7 @@ Lista de eventos sobre desenvolvimento web front-end e back-end
 
 ### <a name="tableless-conference-2014"></a>Tableless Conference
 * **Tema:** Front-end
-* **Dias:** 23/10/2014 (quinta-feira)
+* **Dia:** 23/10/2014 (quinta-feira)
 * **Cidade:** São Paulo - SP
 * **Endereço:** Rua Ferreira de Araújo, 741 - Pinheiros
 * **Local:** Centro Britânico Brasileiro
@@ -86,7 +86,7 @@ Lista de eventos sobre desenvolvimento web front-end e back-end
 
 ### <a name="frontinsampa-2014"></a>FrontInSampa
 * **Tema:** Front-end
-* **Dias:** 25/10/2014 (sábado)
+* **Dia:** 25/10/2014 (sábado)
 * **Cidade:** São Paulo - SP
 * **Endereço:** Rua Augusta, 501 - Consolação
 * **Local:** Inferno Club
