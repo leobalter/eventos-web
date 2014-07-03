@@ -1,0 +1,30 @@
+{
+  "name": "eventos-web",
+  "version": "0.1.0",
+  "description": "List popular tech events in Brazil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelrinaldi/eventos-web.git"
+  },
+  "keywords": [
+    "events",
+    "tech",
+    "brazil",
+    "calendar",
+    "schedule"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/eventos-web/issues"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/eventos-web",
+  "devDependencies": {
+    "marked": "^0.3.2",
+    "q": "^1.0.1"
+  }
+}
