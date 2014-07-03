@@ -1,4 +1,4 @@
-# Eventos web
+# Eventos
 Lista de eventos sobre desenvolvimento web front-end e back-end
 
 * [InterConPHP](#interconphp-2014)
