@@ -1,10 +1,11 @@
 # Eventos web
 Lista de eventos sobre desenvolvimento web front-end e back-end
 
-* [InterConPHP](#interconphp-2014)
+* ~~[InterConPHP](#interconphp-2014)~~ ✔
 * [frontinbh](#frontinbh-2014)
 * [TDC São Paulo](#tdc-sp-2014)
 * [BrazilJS](#braziljs-2014)
+* [RubyConf Brasil by Locaweb](#rubyconf-brasil-2014)
 * [SampaJS](#sampajs-2014)
 * [W3C Conference](#w3c-conference-2014)
 * [Tableless Conference](#tableless-conference-2014)
@@ -54,6 +55,16 @@ Lista de eventos sobre desenvolvimento web front-end e back-end
 * **Palestrantes:** Yehuda Katz, Rob Dodson, Miller Medeiros, Guillermo Rauch, Eduardo Lundgren, James Halliday, Leonardo Balter entre outros
 * **Site:** [braziljs.com.br](http://braziljs.com.br)
 
+### <a name="rubyconf-brasil-2014"></a>RubyConf Brasil by Locaweb
+* **Tema:** Ruby
+* **Dias:** 28/08/2014 e 29/08/2014 (quinta e sexta-feira)
+* **Cidade:** São Paulo - SP
+* **Endereço:** Rua Frei Caneca, 569 - Consolação
+* **Local:** Teatro Frei Caneca
+* **Valor:** R$ 300,00
+* **Palestrantes:** Koichi Sasada, Murilo Gun, Fabio Akita, Jean Carlo Emer, Eduardo Fiorezi, Carlos Souza, George Guimarães entre outros
+* **Site:** [rubyconf.com.br](http://www.rubyconf.com.br)
+
 ### <a name="sampajs-2014"></a>SampaJS
 * **Tema:** JavaScript
 * **Dia:** 06/09/2014 (sábado)
@@ -90,7 +101,7 @@ Lista de eventos sobre desenvolvimento web front-end e back-end
 * **Cidade:** São Paulo - SP
 * **Endereço:** Rua Augusta, 501 - Consolação
 * **Local:** Inferno Club
-* **Valor:** R$ 99,00
+* **Valor:** R$ 170,00
 * **Palestrantes:** (não informado)
 * **Site:** [frontinsampa.com.br](http://frontinsampa.com.br)
 
