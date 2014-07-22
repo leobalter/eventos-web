@@ -101,7 +101,7 @@ Lista de eventos sobre desenvolvimento web front-end e back-end
 * **Cidade:** São Paulo - SP
 * **Endereço:** Rua Augusta, 501 - Consolação
 * **Local:** Inferno Club
-* **Valor:** R$ 99,00
+* **Valor:** R$ 170,00
 * **Palestrantes:** (não informado)
 * **Site:** [frontinsampa.com.br](http://frontinsampa.com.br)
 
