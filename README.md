@@ -1,7 +1,7 @@
 # Eventos web
 Lista de eventos sobre desenvolvimento web front-end e back-end
 
-* [InterConPHP](#interconphp-2014)
+* ~~[InterConPHP](#interconphp-2014)~~ ✔
 * [frontinbh](#frontinbh-2014)
 * [TDC São Paulo](#tdc-sp-2014)
 * [BrazilJS](#braziljs-2014)
